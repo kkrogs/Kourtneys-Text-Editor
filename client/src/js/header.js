@@ -8,5 +8,5 @@ const header = `
 just another text editor
 */                          
 `;
-
+// exporting the header const
 export { header };
