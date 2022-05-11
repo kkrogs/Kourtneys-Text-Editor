@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-This application takes an existing text editor app and adds functionality for it to work as a PWA and function offline. This application is deployed through Heroku.
+This application allows for an existing text editor application to work as a progressive web application online as well as offline. A user can create any text that they would like.
 
 ## Table of Contents
 - [Description](#description)
