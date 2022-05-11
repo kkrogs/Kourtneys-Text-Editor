@@ -11,7 +11,6 @@ This application takes an existing text editor app and adds functionality for it
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployed Link](#deployed-link)
-- [Demo](#demo)
 - [Built With](#built-with)
 - [License](#license)
 - [Contributing](#contributing)
@@ -36,7 +35,7 @@ Then open Insomnia and type http://localhost:3000/ to run this application on yo
 
 ## Deployed Link
 
-The link to the deployed application is: .
+The link to the deployed application is: https://kourtneys-text-editor.herokuapp.com/.
 
 
 
