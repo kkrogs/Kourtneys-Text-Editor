@@ -52,6 +52,8 @@ The link to the deployed application is: .
 ## License
 This application is licensed under MIT license. 
 
+## Contributing
+Kourtney Krogman has contributed to the application.
 
 ## Tests
 To run tests on the application, run
